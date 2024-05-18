@@ -1,0 +1,24 @@
+.header {
+  background-color: rgb(203, 203, 33);
+  padding: 20px 0;
+  width: 100%;
+  height: 100%;
+}
+
+.form {
+  padding: 5px 10px;
+}
+
+.searchBtn {
+  margin-left: 10px;
+  border: 1px solid whitesmoke;
+  padding: 5px 10px;
+  border-radius: 3px;
+  background-color: rgb(191, 226, 121);
+  color: rgb(2, 2, 2);
+}
+
+.searchBtn:hover,
+.searchBtn:focus {
+  background-color: rgb(25, 184, 209);
+}
